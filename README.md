@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next js and exploring new technologies**
 
-- 💬 Ask me about **React js, javascrip, html, css , react native , php , my sql**
+- 💬 Ask me about **React Js, JavaScript, HTML, CSS , React Native , PHP , MySQL**
 
 - 📫 How to reach me **rajeynjenga@gmail.com**
 
