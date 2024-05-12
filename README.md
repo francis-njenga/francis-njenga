@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis Njenga</h1>
-<h3 align="center">Kenyan software engineer with a passion for building innovative Android apps and full-stack developmen</h3>
+<h3 align="center">Kenyan software engineer with a passion for building innovative Android apps and full-stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francis-njenga&label=Profile%20views&color=0e75b6&style=flat" alt="francis-njenga" /> </p>
 
