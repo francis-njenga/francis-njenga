@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francis Njenga</h1>
 <h3 align="center">Kenyan software engineer with a passion for building innovative Android apps and full-stack development</h3>
-
+<h3 align="center"><a href="https://francis-njenga.vercel.app/">Check Out my Portfolio</a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francis-njenga&label=Profile%20views&color=0e75b6&style=flat" alt="francis-njenga" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajey_nj" target="blank"><img src="https://img.shields.io/twitter/follow/rajey_nj?logo=twitter&style=for-the-badge" alt="rajey_nj" /></a> </p>
