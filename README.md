@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Doing Programming Tutorials [frank_Tech](https://www.youtube.com/channel/UCIaqBsk6GdL0GPIJ9ThOrMA)
 
-- 🌱 I’m currently learning **Next js and exploring new technologies**
+
 
 - 💬 Ask me about **React Js, JavaScript, HTML, CSS , React Native , PHP , MySQL**
 
