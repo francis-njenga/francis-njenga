@@ -4,7 +4,7 @@
 <h3 align="left"><a href="https://www.youtube.com/@francis_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="francis_tech" height="30" width="40" />Check Out Programming Youtube Channel </a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francis-njenga&label=Profile%20views&color=0e75b6&style=flat" alt="francis-njenga" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rajey_nj" target="blank"><img src="https://img.shields.io/twitter/follow/rajey_nj?logo=twitter&style=for-the-badge" alt="rajey_nj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/franktech_" target="blank"><img src="https://img.shields.io/twitter/follow/franktech_?logo=twitter&style=for-the-badge" alt="frankTech" /></a> </p>
 
 - 🔭 I’m currently Doing Programming Tutorials [frank_Tech](https://www.youtube.com/channel/UCIaqBsk6GdL0GPIJ9ThOrMA)
 
