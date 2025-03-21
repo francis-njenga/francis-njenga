@@ -65,7 +65,7 @@
 
 ### 🌐 Social Media
 <p align="left">
-  <a href="https://twitter.com/rajey_nj" target="blank">
+  <a href="https://twitter.com/franktech_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajey_nj" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@francis_tech" target="blank">
