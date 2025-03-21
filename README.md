@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francis Njenga</h1>
-<h3 align="center">A software engineer with a passion for building innovative Android apps and full-stack development</h3>
-<h3 align="center"><a href="https://francis-njenga.vercel.app/">Check Out My Portfolio</a></h3>
+<h3 align="center">Full-stack Software Engineer with extensive experience in both frontend and backend development. Passionate about technology and continuous learning, including AI development.</h3>
+<h3 align="center"><a href="https://frankcodes.tech/">Reach out Portfolio</a></h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=francis-njenga&label=Profile%20views&color=0e75b6&style=flat" alt="francis-njenga" /> 
@@ -11,12 +11,17 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently creating programming tutorials on [Frank Tech](https://www.youtube.com/channel/UCIaqBsk6GdL0GPIJ9ThOrMA).
 - 🌱 I’m constantly learning and exploring new technologies.
-- 💬 Ask me about **React.js, JavaScript, HTML, CSS, React Native, PHP, MySQL**.
-- 📫 How to reach me: **rajeynjenga@gmail.com**.
-- 🎥 Check out my programming YouTube channel: [Francis Tech](https://www.youtube.com/@francis_tech).
+- 💬 Ask me about **React.js, JavaScript, HTML, CSS, React Native, PHP, MySQL, Java, C++, Go, Rust**.
+- 📫 How to reach me: **rajeynj@gmail.com, [Portfolio](https://frankcodes.tech)**.
+
 
 ---
+### 🎓 Education
+- **Bachelor of Science in Computer Technology**  
+  *Multimedia University of Kenya* (Sep 2020 – Nov 2024)  
+  Graduated with an **Upper Second-Class Honours degree**.
 
+---
 ### 🛠️ Skills
 
 #### **Front-end Development:**
@@ -56,12 +61,7 @@
 
 ---
 
-### 🎓 Education
-- **Bachelor of Science in Computer Technology**  
-  *Multimedia University of Kenya* (Sep 2020 – Nov 2024)  
-  Graduated with an **Upper Second-Class Honours degree**.
 
----
 
 ### 🌐 Social Media
 <p align="left">
