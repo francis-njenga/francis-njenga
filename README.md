@@ -76,6 +76,5 @@
 ---
 
 ### 📊 GitHub Stats
-[![Francis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francis-njenga&show_icons=true&theme=radical)](https://github.com/francis-njenga)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis-njenga&layout=compact&theme=radical)](https://github.com/francis-njenga)
